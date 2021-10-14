@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+![Capture1](https://user-images.githubusercontent.com/65428639/137410559-e18dd31d-3a55-4b8d-89e6-06860e9a7229.PNG)
+![Capture2](https://user-images.githubusercontent.com/65428639/137410565-8b165547-49c5-4a84-8c90-cf9df2e888a6.PNG)
+![Capture3](https://user-images.githubusercontent.com/65428639/137410570-2ffceed8-4bea-4918-804b-7e5cbf75e41d.PNG)
+Game Restarted :
+![Capture4](https://user-images.githubusercontent.com/65428639/137410574-04dc7e11-cacc-4a64-9538-390582b52d7f.PNG)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
